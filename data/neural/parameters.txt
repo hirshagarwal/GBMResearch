@@ -1,0 +1,12 @@
+## 2021-05-04 10:28:19
+gct.directory:	/Users/hirshagarwal/Documents/GBMResearch/data
+output.directory:	/Users/hirshagarwal/Documents/GBMResearch/data
+gene.set.database:	/Users/hirshagarwal/Documents/GBMResearch/Gene Sets/neural.gmt
+sample.norm.type:	rank
+weight:	0.75
+statistic:	area.under.RES
+output.score.type	NES
+nperm:	1000
+min.overlap:	10
+correl.type:	z.score
+run.parallel:	TRUE
